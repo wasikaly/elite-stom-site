@@ -1,0 +1,10 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+
+# Local tooling
+.claude/
+
+# Original source photos (the site uses optimized copies in /assets)
+WhatsApp Image*.jpeg
+elitestom.jpg
